@@ -15,6 +15,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Folders\Stuffs\Github Repositories\ASP-ER-Core-MVC-Test\ASP-ER-Core-MVC-Test
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Folders/Stuffs/Github Repositories/ASP-ER-Core-MVC-Test/ASP-ER-Core-MVC-Test/Views/Bob/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9iXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Folders/Stuffs/Github Repositories/ASP-ER-Core-MVC-Test/ASP-ER-Core-MVC-Test/Views/Bob/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9iXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Folders/Stuffs/Github Repositories/ASP-ER-Core-MVC-Test/ASP-ER-Core-MVC-Test/Views/Bob/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9iXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Folders/Stuffs/Github Repositories/ASP-ER-Core-MVC-Test/ASP-ER-Core-MVC-Test/Views/Bob/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9iXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Folders/Stuffs/Github Repositories/ASP-ER-Core-MVC-Test/ASP-ER-Core-MVC-Test/Views/Bob/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9iXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Folders/Stuffs/Github Repositories/ASP-ER-Core-MVC-Test/ASP-ER-Core-MVC-Test/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
